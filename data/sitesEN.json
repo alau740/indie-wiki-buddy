@@ -1435,7 +1435,7 @@
         "origin_main_page": "BaronyGame Wiki"
       }
     ],
-    "destination": "Official Barony Wiki",
+    "destination": "Barony Wiki",
     "destination_base_url": "barony.wiki.gg",
     "destination_platform": "mediawiki",
     "destination_icon": "baronywiki.png",
